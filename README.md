@@ -8,8 +8,8 @@ To run the Python script, simply execute the following command:
 bash
 python SDDGFFParser.py <input_file_path> <chromosome_id>
 
-input_file_path: This is the path to the GFF3 file that you want to parse.
-chromosome_id: You can specify the chromosome ID, e.g., "chr1," "chr2," "chr3," or any other string that SDDetector prefers.
+### input_file_path: This is the path to the GFF3 file that you want to parse.
+### chromosome_id: You can specify the chromosome ID, e.g., "chr1," "chr2," "chr3," or any other string that SDDetector prefers.
 
 ### This utility is designed to support SDDetector's GFF files, and it currently works with NCBI GFF files. However, it can be further improved to handle other datasets.
 
